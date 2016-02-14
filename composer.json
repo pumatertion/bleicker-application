@@ -1,0 +1,15 @@
+{
+	"name"       : "bleicker/application",
+	"type"       : "library",
+	"description": "Application Package",
+	"version"    : "1.0.0",
+	"require"    : {
+	},
+	"require-dev": {
+	},
+	"autoload"   : {
+		"psr-4": {
+			"Bleicker\\Application\\": "Classes"
+		}
+	}
+}
